@@ -5,3 +5,4 @@
 <img width="943" alt="实现进程的前驱关系" src="https://user-images.githubusercontent.com/107924376/217713731-b387a1c7-cd88-4dd3-a605-a8f1a75261c9.PNG">
 <img width="1221" alt="多生产-多消费者" src="https://user-images.githubusercontent.com/107924376/217731751-b89c6ff8-ea6c-4cb6-bfd8-e571913e9820.PNG">
 <img width="1253" alt="吸烟者问题" src="https://user-images.githubusercontent.com/107924376/217739518-1c7cf427-a1ac-457e-9293-5d055ab60a6c.PNG">
+![多种场景任你选择](https://user-images.githubusercontent.com/107924376/220128832-02b7ae11-f35e-4c86-b642-51f534e2569c.png)
